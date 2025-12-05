@@ -86,6 +86,8 @@ Implementado através da classe `Journal`:
     ls                  # Lista conteúdo
     cd ..               # Volta um nível
     cp docs docs_bkp    # Copia a pasta inteira
+    rm <nome_arquivo ou diretório> # Apaga arquivo ou diretório 
+    ren <nome_antigo> <nome_novo>  # Renomeia arquivo   
     ```
 
 ---
